@@ -24,7 +24,7 @@ If you publish material that uses this code, please cite our paper:
 @inproceedings{kleindessner2022fairordreg,
 title={Pairwise Fairness for Ordinal Regression},
 author={Kleindessner, Matthäus and Samadi, Samira and Zafar, Muhammad Bilal and Kenthapadi, Krishnaram and Russell, Chris},
-year = {2022},
+year={2022},
 booktitle={International Conference on Artificial Intelligence and Statistics (AISTATS)}
 }
 ```
