@@ -1,6 +1,6 @@
 # Pairwise Fairness for Ordinal regression
 
-This repository contains code for our AISTATS 2022 paper Pairwise Fairness for Ordinal Regression.
+This repository contains code for our AISTATS 2022 paper [Pairwise Fairness for Ordinal Regression](https://arxiv.org/abs/2105.03153).
 
 In order to reproduce the experiments of Section 5.1 of the paper, do the following:
 
@@ -12,9 +12,9 @@ In order to reproduce the experiments of Section 5.1 of the paper, do the follow
 
 
 ## Remarks
-1) The predictions produced by the POM model trained in Matlab are provided in Results/Predictions_MATLAB. If you have Matlab on your system, you can generate these on your own by running run_POM_model_MATLAB.m. 
+1) The predictions produced by the POM model trained in Matlab are provided in Results/Predictions_MATLAB. If you have Matlab on your system, you can generate these on your own by running `run_POM_model_MATLAB.m`. 
 
-2) In our paper, we present results averaged over a large number of splits and for a large number of different parameters --- creating these results is quite time consuming and we did so by running our code on numerous machines in parallel. The code provided here is intended to be run on a single machine, and we recommend to run it with parameters different from the ones that we used (see the top of run_experiment.py). Note that this will result in slightly worse results than those reported in our paper.
+2) In our paper, we present results averaged over a large number of splits and for a large number of different parameters --- creating these results is quite time consuming and we did so by running our code on numerous machines in parallel. The code provided here is intended to be run on a single machine, and we recommend to run it with parameters different from the ones that we used (see the top of `run_experiment.py`). Note that this will result in slightly worse results than those reported in our paper.
 
 ## Citation
 
