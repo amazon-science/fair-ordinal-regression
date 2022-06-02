@@ -1,4 +1,4 @@
-# Pairwise Fairness for Ordinal regression
+# Pairwise Fairness for Ordinal Regression
 
 This repository contains code for our AISTATS 2022 paper [Pairwise Fairness for Ordinal Regression](https://arxiv.org/abs/2105.03153).
 
