@@ -8,7 +8,7 @@ In order to reproduce the experiments of Section 5.1 of the paper, do the follow
 
 2) run `prepare_drug_consumption.py` and `prepare_communities_and_crime.py` in order to download and prepare the data sets
 
-3) set the parameters at the top of `run_experiment.py` and run the script in order to produce plots like in Figure 1 of our paper
+3) set the parameters at the top of `run_experiment.py` and run the script in order to produce plots like in Fig. 1 of our paper
 
 
 ## Remarks
