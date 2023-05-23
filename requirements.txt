@@ -4,7 +4,7 @@ numpy==1.20.1
 pandas==1.2.4
 pip==21.0.1
 python==3.8.8
-requests==2.26.0
+requests==2.31.0
 scikit-learn==0.24.1
 scipy==1.6.3
 tqdm==4.62.2
